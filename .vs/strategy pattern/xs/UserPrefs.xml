@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{CC348807-0514-494D-8890-0F88CDA99755}|Default">
+  <MonoDevelop.Ide.ItemProperties.strategy_220pattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="strategy pattern/Program.cs">
+    <Files>
+      <File FileName="strategy pattern/Program.cs" Line="94" Column="14" />
+      <File FileName="strategy pattern/Business/Models/EmptyClass.cs" Line="49" Column="1" />
+      <File FileName="strategy pattern/Business/Models/Strategies/SalesTax/EmptyInterface.cs" Line="2" Column="1" />
+      <File FileName="strategy pattern/Business/Models/Strategies/SalesTax/EmptyClass.cs" Line="46" Column="2" />
+      <File FileName="strategy pattern/Business/Models/Strategies/SalesTax/EmptyClass.cs" Line="20" Column="2" />
+      <File FileName="../../../Downloads/02/demos/Demo 1 - Strategy Pattern First Look/Completed/Business/Strategies/SalesTax/USAStateSalesTaxStrategy.cs" Line="1" Column="1" />
+      <File FileName="strategy pattern/Business/Strategies/Invoice/EmptyInterface.cs" Line="7" Column="18" />
+      <File FileName="strategy pattern/Business/Strategies/Invoice/EmptyClass.cs" Line="32" Column="2" />
+      <File FileName="strategy pattern/Business/Strategies/Invoice/EmptyClass.cs" Line="22" Column="2" />
+      <File FileName="strategy pattern/Business/Strategies/Invoice/EmptyClass.cs" Line="29" Column="2" />
+      <File FileName="strategy pattern/Business/Strategies/Invoice/EmptyClass.cs" Line="24" Column="2" />
+      <File FileName="strategy pattern/Business/Strategies/Shipping/EmptyInterface.cs" Line="9" Column="2" />
+      <File FileName="strategy pattern/Business/Strategies/Shipping/EmptyClass.cs" Line="17" Column="2" />
+      <File FileName="strategy pattern/Business/Strategies/Shipping/EmptyClass.cs" Line="17" Column="2" />
+      <File FileName="strategy pattern/Business/Strategies/Shipping/EmptyClass.cs" Line="7" Column="54" />
+      <File FileName="strategy pattern/Business/Strategies/Shipping/EmptyClass.cs" Line="7" Column="59" />
+      <File FileName="strategy pattern/Business/Strategies/Shipping/EmptyClass.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="strategy pattern" expanded="True">
+            <Node name="strategy pattern" expanded="True">
+              <Node name="Business" expanded="True">
+                <Node name="Models" expanded="True" />
+                <Node name="Strategies" expanded="True">
+                  <Node name="Invoice" expanded="True" />
+                  <Node name="SalesTax" expanded="True" />
+                  <Node name="Shipping" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

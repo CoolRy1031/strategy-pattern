@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GdIiHGV2T/xFSkuW/VDSAcrdVh9Q4WEDSns8oXg6TFMdppfkmmUH0ueZTdJIpEhH4geDe4rSgTtx6EYUSnstbQ==",
+  "success": true,
+  "projectFilePath": "/Users/thatguy/code/C#/strategy pattern/strategy pattern/strategy pattern.csproj",
+  "expectedPackageFiles": [
+    "/Users/thatguy/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

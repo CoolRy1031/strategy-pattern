@@ -1,0 +1,17 @@
+/Users/thatguy/code/C#/strategy pattern/strategy pattern/obj/Debug/net7.0/strategy pattern.csproj.AssemblyReference.cache
+/Users/thatguy/code/C#/strategy pattern/strategy pattern/obj/Debug/net7.0/strategy pattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thatguy/code/C#/strategy pattern/strategy pattern/obj/Debug/net7.0/strategy pattern.AssemblyInfoInputs.cache
+/Users/thatguy/code/C#/strategy pattern/strategy pattern/obj/Debug/net7.0/strategy pattern.AssemblyInfo.cs
+/Users/thatguy/code/C#/strategy pattern/strategy pattern/obj/Debug/net7.0/strategy pattern.csproj.CoreCompileInputs.cache
+/Users/thatguy/code/C#/strategy pattern/strategy pattern/bin/Debug/net7.0/strategy pattern
+/Users/thatguy/code/C#/strategy pattern/strategy pattern/bin/Debug/net7.0/strategy pattern.deps.json
+/Users/thatguy/code/C#/strategy pattern/strategy pattern/bin/Debug/net7.0/strategy pattern.runtimeconfig.json
+/Users/thatguy/code/C#/strategy pattern/strategy pattern/bin/Debug/net7.0/strategy pattern.dll
+/Users/thatguy/code/C#/strategy pattern/strategy pattern/bin/Debug/net7.0/strategy pattern.pdb
+/Users/thatguy/code/C#/strategy pattern/strategy pattern/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/thatguy/code/C#/strategy pattern/strategy pattern/obj/Debug/net7.0/strategy pattern.csproj.CopyComplete
+/Users/thatguy/code/C#/strategy pattern/strategy pattern/obj/Debug/net7.0/strategy pattern.dll
+/Users/thatguy/code/C#/strategy pattern/strategy pattern/obj/Debug/net7.0/refint/strategy pattern.dll
+/Users/thatguy/code/C#/strategy pattern/strategy pattern/obj/Debug/net7.0/strategy pattern.pdb
+/Users/thatguy/code/C#/strategy pattern/strategy pattern/obj/Debug/net7.0/strategy pattern.genruntimeconfig.cache
+/Users/thatguy/code/C#/strategy pattern/strategy pattern/obj/Debug/net7.0/ref/strategy pattern.dll
